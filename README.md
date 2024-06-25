@@ -117,6 +117,8 @@ And so on..........
 
 ## The analysis provided the following key insights:
 
+![](conclution.png)
+
 ### High-Performing Categories 
 Identified product categories that contribute the most to total sales, helping to focus marketing and inventory efforts.
 
