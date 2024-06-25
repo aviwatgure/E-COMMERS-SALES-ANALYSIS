@@ -6,9 +6,11 @@
 
 This project aims to analyze and visualize the sales data of an e-commerce company to gain insights into customer behavior, sales performance, and market trends. The analysis is conducted using Microsoft Excel, focusing on transforming raw, unstructured data into actionable insights that can inform decision-making and strategy.
 
-![]()
+
 
 # Problem Statements
+
+![](PROBLEM_STATMENT.png)
 
 1. Sales Performance: How is the overall sales performance of the e-commerce company? What are the total sales, profit, and average order values?
 
@@ -95,6 +97,8 @@ Using Excel, we calculated the following key metrics:
 - Create a line chart from the PivotTable to visualize sales trends over time.
 
 #### Top-Selling Products
+
+![](fillter.png)
 
 1. Pivot Table:
 
