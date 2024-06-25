@@ -119,16 +119,16 @@ And so on..........
 
 ![](conclution.png)
 
-### High-Performing Categories 
+### 1. High-Performing Categories 
 Identified product categories that contribute the most to total sales, helping to focus marketing and inventory efforts.
 
-### Regional Sales Performance 
+### 2. Regional Sales Performance 
 Recognized regions that generate the highest sales, informing regional promotions and inventory adjustments.
 
-### Sales Seasonality
+### 3. Sales Seasonality
 Understood seasonal trends in sales, enabling better planning for inventory and marketing strategies.
 
-### Product Performance
+### 4. Product Performance
 Highlighted top-selling products, ensuring they are adequately stocked and promoted.
 
 
@@ -136,14 +136,14 @@ Highlighted top-selling products, ensuring they are adequately stocked and promo
 
 ![](reccomandation.png)
 
-### Enhance Marketing Efforts
+### 1. Enhance Marketing Efforts
  Focus on high-performing categories and regions to maximize sales and profitability.
 
-### Optimize Inventory Management
+### 2. Optimize Inventory Management
 Use sales trends and top-selling product data to ensure popular items are always in stock.
 
-### Leverage Seasonal Trends
+### 3, Leverage Seasonal Trends
 Plan marketing campaigns and promotions around identified seasonal peaks to boost sales.
 
-### Improve Customer Engagement
+### 4. Improve Customer Engagement
 Tailor marketing strategies to key customer segments based on regional and demographic data.
