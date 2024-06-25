@@ -1,9 +1,12 @@
 # ECOMMERS SALES ANALYSIS
 
+![](dashboard.png)
 
 # Introduction
 
 This project aims to analyze and visualize the sales data of an e-commerce company to gain insights into customer behavior, sales performance, and market trends. The analysis is conducted using Microsoft Excel, focusing on transforming raw, unstructured data into actionable insights that can inform decision-making and strategy.
+
+![]()
 
 # Problem Statements
 
@@ -14,6 +17,17 @@ This project aims to analyze and visualize the sales data of an e-commerce compa
 3. Customer Insights: Who are the key customer segments? What is the customer distribution by region, and how does it affect sales?
 
 4. Time-based Analysis: What are the sales trends over time? Are there any noticeable seasonal trends or patterns?
+
+# Dataset
+
+This is dami data. <br>
+Format of dataset file is csv file cantain 1,13,270 rows and 21 colums.
+
+![](dataset.png)
+
+# Tools
+
+Microsoft Excel: For data cleaning, transformation, analysis, and visualization.
 
 
 # Analysis & Visualization
@@ -27,6 +41,8 @@ This project aims to analyze and visualize the sales data of an e-commerce compa
 ### Key Metrics Calculation
 
 Using Excel, we calculated the following key metrics:
+
+![](kpi.png)
 
 - Total Sales: $23,163,662.56
 - Average Order Value (AOV): $204.50
@@ -49,6 +65,8 @@ Using Excel, we calculated the following key metrics:
 2. Chart:
 
 - Create a bar chart from the PivotTable to visualize sales by category.
+
+![](charts.png)
 
 #### Sales by Region
 
