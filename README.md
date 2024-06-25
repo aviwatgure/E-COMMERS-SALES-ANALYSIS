@@ -134,6 +134,8 @@ Highlighted top-selling products, ensuring they are adequately stocked and promo
 
 # Recommendations
 
+![](reccomandation.png)
+
 ### Enhance Marketing Efforts
  Focus on high-performing categories and regions to maximize sales and profitability.
 
