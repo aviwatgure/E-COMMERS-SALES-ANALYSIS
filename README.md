@@ -46,12 +46,12 @@ Using Excel, we calculated the following key metrics:
 
 ![](kpi.png)
 
-- Total Sales: $23,163,662.56
-- Average Order Value (AOV): $204.50
-- Total Profit: $2,613,068.89
-- Number of Orders: 113,270
-- Average Discount: $21.11
-- Total Quantity Sold: 222,866
+- Total Sales
+- Average Order Value (AOV)
+- Total Profit
+- Number of Orders
+- Average Discount
+- Total Quantity Sold
 
 ### Exploratory Data Analysis (EDA)
 
