@@ -47,10 +47,9 @@ Using Excel, we calculated the following key metrics:
 ![](kpi.png)
 
 - Total Sales
-- Average Order Value (AOV)
 - Total Profit
 - Number of Orders
-- Average Discount
+- ProfitMargine
 - Total Quantity Sold
 
 ### Exploratory Data Analysis (EDA)
